@@ -1,0 +1,63 @@
+[33mcommit 8f606db6396716a3f4939b5a27e108c59a712a13[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b0246b1 4d1a815
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Tue Feb 9 00:22:30 2021 -0800
+
+    Merge pull request #3 from gathertown/generalize-some
+    
+    enable different door sizes and creation if there's no door already
+
+[33mcommit b0246b19c86b91e15e4df913ea3c14c770c60aab[m
+Author: Nate Foss <npfoss@gmail.com>
+Date:   Wed Feb 3 17:32:40 2021 -0500
+
+    add disclaimer :P
+
+[33mcommit 4d1a8159961b6f2bd805dc2b66eb5e3f1687adc0[m
+Author: Nate Foss <npfoss@gmail.com>
+Date:   Wed Feb 3 17:10:53 2021 -0500
+
+    enable different door sizes and creation if there's no door already
+
+[33mcommit 4814428d7469cc6b46213fc9289a90132be32d3c[m
+Author: Nate Foss <npfoss@gmail.com>
+Date:   Wed Feb 3 16:30:30 2021 -0500
+
+    lint
+
+[33mcommit a4d6258e15dc71d474ec76c96219d241f4df3a5a[m
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Fri Jan 8 01:01:36 2021 -0800
+
+    Add error checking for window localstorage
+
+[33mcommit 3a3c54733b5c94cf6722375edcca081a2b01eaad[m
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Wed Nov 11 20:09:08 2020 -0800
+
+    Remember your last password
+
+[33mcommit 625c46362e5cfbac2bbdd26c6fecf16c8bab1f8a[m
+Merge: fc5a7bd fc9935c
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Sun Nov 8 22:31:58 2020 -0800
+
+    Merge branch 'main' of https://github.com/gathertown/door-by-api into main
+
+[33mcommit fc5a7bd9d5e7b4499c81f8f827e7e14ee2fa22a5[m
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Sun Nov 8 22:31:49 2020 -0800
+
+    Fix doors
+
+[33mcommit fc9935c6befe1dc655a86c8bb78422e2d1e1e201[m
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Sat Nov 7 17:19:06 2020 -0800
+
+    Update README.md
+
+[33mcommit 47b93a5a364c17b1564908cc65d37038af8f0164[m
+Author: Phillip Wang <kip.phil@gmail.com>
+Date:   Sat Nov 7 17:08:52 2020 -0800
+
+    First commit
